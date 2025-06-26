@@ -6,7 +6,7 @@ JDK 21 версии
 
 ## Развёртывание
 1. git clone проекта на устройство
-2. в тeрминале "./mvnw.cmd clean package"
+2. в тeрминале (для Windows) "./mvnw.cmd clean package" или (Для Linux) "./mvnw clean package"
 3. в корневой директории проекта появится директория target 
 4. из директории target в терминале  "java -jar filmcinima-0.0.1-SNAPSHOT.jar" 
 5. терминал не должен закрывать для работы процесса
